@@ -1,0 +1,12 @@
+本项目为第一周作业
+a例程
+1.乘法口诀表
+![img.png](img.png)
+2.数字游戏
+![img_1.png](img_1.png)
+3.成绩处理
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+b冒泡排序
+![img_5.png](img_5.png)
