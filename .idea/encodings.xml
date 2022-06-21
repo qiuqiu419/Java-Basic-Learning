@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/geekbang/TestVizAppMain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/geekbang/onlinemarket/OnlineSpecialPhone.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/geekbang/supermarket/LittleSuperMarket.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/geekbang/supermarket/MerchandiseV2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/geekbang/supermarket/Phone.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/geekbang/supermarket/ShellColorChangePhone.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/geekbang/supermarket/TestVizSamePkgAppMain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/AbstractExpireDateMerchandise.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/Category.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/Dress.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/ExpireDateMerchandise.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/GamePointCard.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/LittleSuperMarket.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/MerchandiseV2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/Milk.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/Phone.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/ShowGoods.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/Size.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/UseAbsClass.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
