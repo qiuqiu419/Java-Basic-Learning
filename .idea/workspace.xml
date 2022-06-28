@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd10b25a-7582-4bea-a894-40b652e9238a" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/exception/myexceptions/Caller1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/exception/myexceptions/Caller2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/exception/myexceptions/Caller3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/exception/myexceptions/CallerExceptionAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/exception/myexceptions/CallerRtExceptionAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/exception/myexceptions/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/exception/myexceptions/MyRuntimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/learncollection/UseListAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/learncollection/mylist/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/learncollection/mylist/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/learnfile/CreateDirAndFileAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/learnfile/SeparatorAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/learnmap/LearnMapAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/ShoppingAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/impl/AbsCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/impl/CashCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/impl/SimpleMerchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/impl/SimpleShopman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/impl/SimpleSuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/impl/SuiYuanCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/impl/ThinkAndBuyCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/impl/VIPCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/interfaces/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/interfaces/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/interfaces/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/interfaces/DiscountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/interfaces/HasCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/interfaces/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/interfaces/Shopman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/interfaces/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/interfaces/SuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/util/ShoppingUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fileoperation/Myfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fileoperation/fileMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/测试文件.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BADlNHKwImvZr7LU1lxYfOUOHP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/JavaProject/视频案例/LetsJava-master/第四章 Java 中的常用工具类和新语法/11. Java 中的 File 类/code",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="RunManager" selected="应用程序.CreateDirAndFileAppMain">
+    <configuration name="CallerExceptionAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbang.exception.myexceptions.CallerExceptionAppMain" />
+      <module name="week4_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbang.exception.myexceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateDirAndFileAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbang.learnfile.CreateDirAndFileAppMain" />
+      <module name="week4_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbang.learnfile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnMapAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbang.learnmap.LearnMapAppMain" />
+      <module name="week4_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbang.learnmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseListAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbang.learncollection.UseListAppMain" />
+      <module name="week4_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbang.learncollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fileoperation.fileMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileoperation.fileMain" />
+      <module name="week4_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fileoperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.CreateDirAndFileAppMain" />
+        <item itemvalue="应用程序.fileoperation.fileMain" />
+        <item itemvalue="应用程序.LearnMapAppMain" />
+        <item itemvalue="应用程序.UseListAppMain" />
+        <item itemvalue="应用程序.CallerExceptionAppMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fd10b25a-7582-4bea-a894-40b652e9238a" name="变更" comment="" />
+      <created>1656340152365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656340152365</updated>
+    </task>
+    <servers />
+  </component>
+</project>
